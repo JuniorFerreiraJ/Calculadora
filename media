@@ -1,0 +1,8 @@
+{
+            double num1, num2, soma;
+            num1 = double.Parse(Console.ReadLine());
+            num2 = double.Parse(Console.ReadLine());
+            soma = num1 + num2;
+            Console.WriteLine(soma);
+;        }
+    }
